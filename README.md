@@ -66,4 +66,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 :writing_hand: Blog Posts :
-<p> 😞 None for now </p>
+<p>-- <a href="#">😞 None for now</a> </p>
