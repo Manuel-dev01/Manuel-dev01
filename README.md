@@ -58,8 +58,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <h3>:fire: My Stats :</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuel-dev01&theme=dark&background=000000" align="center" width="80%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-dev01/ width="50%"> 
-<!--           <img src="https://github.com/anuraghazra/github-readme-stats"/>
- -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuel-dev01&theme=dark&background=000000" align="center" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-dev01&layout=compact&theme=vision-friendly-dark" />
+</div>
