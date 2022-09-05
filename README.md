@@ -21,7 +21,9 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=manuel-dev01&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>A Breif Introduction About Me <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
+
+<div align="center"><h1>A Breif Introduction About Me <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1></div>
 <p>- 👋 Hi, I’m @Manuel-dev01</p>
 <p>- 👀 I’m interested in collabrating and Connecting with developers like me</p>
 <p>- 🌱 I’m currently learning Front-end Development...</p>
