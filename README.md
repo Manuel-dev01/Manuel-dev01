@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="badges" align="center">
- <a href=""> 
+ <a href="https://www.linkedin.com/in/emmanuel-olamiye-106235248"> 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
  <!--<a href=""><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>-->
@@ -31,9 +31,14 @@ You can click the Preview link to take a look at your changes.
 <p>- :telescope: I’m interested in collabrating and Connecting with developers like me and also to provide value.</</p>
 <p>- :seedling: I’m currently learning Front-end Development, also Exploring Technical Content Writing.</p>
 <p>- :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles and general books and play games.</p>
-<p>- :mailbox:How to reach me: <a href="">
+<p>- :mailbox:How to reach me: 
+ <a href="https://twitter.com/Nuel_000?t=bnGtSFRhisThE61MWZcY8g&s=09">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
- </a></p>
+ </a>
+ <a href="https://www.linkedin.com/in/emmanuel-olamiye-106235248"> 
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+</p>
   
 ---
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
