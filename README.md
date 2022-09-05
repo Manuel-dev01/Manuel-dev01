@@ -28,9 +28,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <p>- 🤠 Hi, I’m Emmanuel</p>
-<p>- 🖥️ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> from Nigeria</p>
-<p>- :telescope: I’m interested in collabrating and Connecting with developers like me and also to provide value</</p>
-<p>- :seedling: I’m currently learning Front-end Development, also Exploring Technical Content Writing</p>
+<p>- 🖥️ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> from Nigeria.</p>
+<p>- :telescope: I’m interested in collabrating and Connecting with developers like me and also to provide value.</</p>
+<p>- :seedling: I’m currently learning Front-end Development, also Exploring Technical Content Writing.</p>
 <p>- :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles and general books and play games.</p>
 <p>- :mailbox:How to reach me: <a href="">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
