@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<div style="margin-top: 20px"><h1>A Breif Introduction About Me <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1></div>
+<div styles="margin-top: 100px"><h1>A Brief Introduction About Me <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1></div>
 <p>- 👋 Hi, I’m @Manuel-dev01</p>
 <p>- 👀 I’m interested in collabrating and Connecting with developers like me</p>
 <p>- 🌱 I’m currently learning Front-end Development...</p>
